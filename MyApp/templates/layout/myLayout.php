@@ -6,7 +6,6 @@
     <h1>
         Titre du site
     </h1>
-<!-- <?= $this->Html->image("Image.jpg") ?> -->
     <a href = "/home/page2">page2</a>
     <a href = "/home/page3">page3</a>
     <main class="main">
@@ -16,6 +15,8 @@
         </div>
     </main>
 </body>
+
+<?= $this->Html->image("Image.jpg", ['class'=>'img']) ?>
 
 <footer>
   <div class="container">

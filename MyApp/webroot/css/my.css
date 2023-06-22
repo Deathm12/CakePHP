@@ -20,3 +20,10 @@ h2 {
     color:red;
     font-size: 30;
 }
+
+.img {
+    width: 700;
+    height: 350;
+    display: flex;
+    justify-content: center;
+}
