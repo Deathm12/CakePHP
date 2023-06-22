@@ -1,11 +1,11 @@
 <head>
     <?= $this->Html->css('my.css') ?>
 </head>
-    <body>
-        <h1>
-            Titre du site
-        </h1>
-    <!-- <?= $this->Html->image("Image.jpg") ?> -->
+<body>
+    <h1>
+        Titre du site
+    </h1>
+<!-- <?= $this->Html->image("Image.jpg") ?> -->
 </body>
 
 <main class="main">
