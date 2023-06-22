@@ -1,0 +1,17 @@
+head {
+    color:blue;
+    font-size:100;
+}
+
+body {
+    color:blue;
+    font-size:20;
+    background-color:azure;
+}
+
+h1 {
+    color: black;
+    size: 30;
+    display: flex;
+    justify-content: center;
+}
